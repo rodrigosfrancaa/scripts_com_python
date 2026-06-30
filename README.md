@@ -1,4 +1,4 @@
-##### * Repositório desenvolvido em 2023 no antigo perfil "rodrigo1708" sendo migrado para o novo perfil "rodrigosfrancaa"
+##### * Repositório desenvolvido em 2021 no antigo perfil "rodrigo1708" sendo migrado para o novo perfil "rodrigosfrancaa"
 
 # scriptsComPython
 
